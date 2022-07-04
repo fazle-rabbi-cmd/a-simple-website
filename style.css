@@ -1,0 +1,51 @@
+.color {
+    color: red;
+}
+
+.align {
+    text-align: center;
+}
+
+.bg {
+    background-color: aquamarine;
+    border: 7px solid red;
+    margin: 10px 10px 10px 10px;
+}
+
+p {
+    text-align: center;
+    padding: 50px 50px 50px 50px;
+}
+
+.cont {
+    display: flex;
+}
+
+.wd {
+    width: 25%;
+}
+
+.wd1 {
+    width: 50%;
+}
+
+.wd2 {
+    width: 75%;
+}
+
+.bg1 {
+    background-color: aquamarine;
+    border: 7px solid red;
+
+}
+
+.m1 {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+.m2 {
+    margin-right: 10px;
+    margin-top: 10px;
+}
